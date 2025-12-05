@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Tiger - KINISHY ver from Audition \"No No Girls\"",
+  "base_artist": "No No Girls",
+  "createdAt": "2025-12-05T17:22:33.043165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tiger Lily",
+      "artist": "Luna",
+      "has_synced": false,
+      "path": "select/01_Tiger_Lily_Luna.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Tiger",
+      "artist": "DJ Shadow feat. Sergio Pizzorno & Christopher Karloff",
+      "has_synced": true,
+      "path": "select/02_The_Tiger_DJ_Shadow_feat._Sergio_Pizzorno_&_Christopher_Karloff.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I've Got A Tiger By The Tail",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/03_I've_Got_A_Tiger_By_The_Tail_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I've Got A Tiger By The Tail - 2006 Remastered Version",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/04_I've_Got_A_Tiger_By_The_Tail_-_2006_Remastered_Version_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I've Got A Tiger By The Tail (2006 Remastered LP Version)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/05_I've_Got_A_Tiger_By_The_Tail_(2006_Remastered_LP_Version)_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/06_Eye_of_the_Tiger_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brooklyn Zoo II (Tiger Crane)",
+      "artist": "Ol’ Dirty Bastard",
+      "has_synced": true,
+      "path": "select/07_Brooklyn_Zoo_II_(Tiger_Crane)_Ol’_Dirty_Bastard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brooklyn Zoo II (Tiger Crane) (feat. Ghostface Killah)",
+      "artist": "Ol' Dirty Bastard",
+      "has_synced": true,
+      "path": "select/08_Brooklyn_Zoo_II_(Tiger_Crane)_(feat._Ghostface_Killah)_Ol'_Dirty_Bastard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sleeping Tiger & The Gods Unknown",
+      "artist": "The Orb",
+      "has_synced": false,
+      "path": "select/09_Sleeping_Tiger_&_The_Gods_Unknown_The_Orb.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Taking Tiger Mountain",
+      "artist": "Brian Eno",
+      "has_synced": true,
+      "path": "select/10_Taking_Tiger_Mountain_Brian_Eno.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Taking Tiger Mountain",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/11_Taking_Tiger_Mountain_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tail of the Tiger",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/12_Tail_of_the_Tiger_Travis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Venezia (Tiger & Woods Remix)",
+      "artist": "Sébastien Tellier",
+      "has_synced": true,
+      "path": "select/13_Venezia_(Tiger_&_Woods_Remix)_Sébastien_Tellier.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eye of the Tiger",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/14_Eye_of_the_Tiger_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Feathered Tiger",
+      "artist": "Kaleidoscope",
+      "has_synced": false,
+      "path": "select/15_The_Feathered_Tiger_Kaleidoscope.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Honey Tiger Eyes",
+      "artist": "Ducktails",
+      "has_synced": true,
+      "path": "select/16_Honey_Tiger_Eyes_Ducktails.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tiger - KINISHY ver from Audition \"No No Girls\"",
+      "artist": "No No Girls",
+      "has_synced": false,
+      "path": "select/pl_01_Tiger_-_KINISHY_ver_from_Audition__No_No_Girls_No_No_Girls.txt"
+    }
+  ]
+}
